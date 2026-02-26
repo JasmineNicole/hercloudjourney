@@ -32,4 +32,5 @@ jobs:
             --account-name cloudresumejpv2 \
             --destination '$web' \
             --source . \
+            --auth-mode login \
             --overwrite
